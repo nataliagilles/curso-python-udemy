@@ -1,7 +1,1 @@
-
-print("Qual é seu nome: ")
-name = input()
-
-if name.isdigit:
-    print("Nome invalido")
-    name = input()
+print("Eu sou muito bom na programção")
