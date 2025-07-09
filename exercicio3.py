@@ -4,14 +4,14 @@ numero_letras= len(nome)
 
 if nome.isdigit:
     nome=str(nome)
-    print(f"Seu nome é {nome}")
-else:
-    print("Erro. Você digitou um número e não uma letra")
-
+    print(" Nome inválido")
+    name = input()
+11
 if idade.isdigit():
     print(f"Sua idade é {idade}")
 else:
     print("Você digitou errado")
+    idade = input()
 if print(f"Seu nome invertido é {nome[::-1]}"):
 
     if " " in nome:
