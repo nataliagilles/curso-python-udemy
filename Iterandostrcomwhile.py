@@ -12,3 +12,4 @@ print (nome_novo)
 if not nome.isalpha ():
         print ("Digite um nome sem números ou" \
         "caracteres especiais")
+natalia
